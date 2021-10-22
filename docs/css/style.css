@@ -1,0 +1,127 @@
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.cor-fundo {
+    background-color: wheat;
+}
+ 
+/* cabeçalho */
+
+.cabecalho-principal, footer{
+    background-color:#8dc63f;
+    padding: 10px 20px;
+}
+
+.imagem-header {
+    width: 169.81px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.titulo-pag {
+    font-family: 'Londrina Solid', cursive;
+    font-weight: bold;
+}
+
+.link a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 1.2rem;
+    margin-left: 10px;
+}
+
+.link-menu {
+    width: 100%; 
+    height: 50px; 
+    background-color: darkgrey;
+}
+
+.link-menu a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 1.2rem;
+    margin: 0 15px;
+}
+
+.centralizado {
+    display: block;
+    margin: 0 auto;
+}
+
+/* footer */
+
+.logo-rede-social {
+    width: 30px;
+}
+
+.lista-redes-sociais {
+    width: 200px;
+    margin: 0 auto;
+}
+
+.onca {
+    width: 100%;
+}
+
+/* home */
+
+.paragrafo-home {
+    width: 960px;
+    margin: 0 auto;
+}
+
+/* página de login */
+
+.caixa-login {
+    padding: 20px 20px;
+    background-color: #666666;
+    width: 480px;
+    color: white;
+    margin: 10em auto 12em auto;
+    border: solid 1px black;
+    border-radius: 8px;
+}
+
+.input {
+    font-size: 1.2em!important;
+}
+
+.link-esqueci-senha {
+    color: aqua;
+}
+
+.botao-entrar {
+    background-color: #8dc63f!important;
+    font-weight: bold!important;
+}
+
+/* registrar */
+
+.caixa-registrar {
+    padding: 20px 20px;
+    background-color: #666666;
+    width: 1080px;
+    color: white;
+    margin: 5em auto 12em auto;
+    border: solid 1px black;
+    border-radius: 8px;
+}
+
+/* sobre */
+
+/* quiz */
+
+.card-quiz {
+    border: 2px solid #8dc63f;
+    border-radius: 10px;
+    padding: 0 30px!important;
+}
+
+.w-45 {
+    width: 49.6%;
+} 
